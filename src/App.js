@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          This is the react tic tac toe tutorial by your boy b radical, Peace.
         </a>
       </header>
     </div>
